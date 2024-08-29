@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 # theme-switcher
+# theme-switcher
